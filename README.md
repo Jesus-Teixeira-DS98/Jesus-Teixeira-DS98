@@ -4,6 +4,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.linkedin.com/in/jesus-teixeira)
 
 ![Jesus Teixeira Stats](https://github-readme-stats.vercel.app/api?username=Jesus-Teixeira-DS98&show_icons=true&theme=tokyonight)
+                
+## Ferramentas que uso no meu dia de trabalho 
+
+<div style ="display: inline_bllock"><br/>
+  <img aling ="center" alt="python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 
 <!--
