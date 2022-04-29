@@ -1,6 +1,7 @@
 ### Olá, Sou o Jesus Teixeira 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jesus-teixeira)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.linkedin.com/in/jesus-teixeira)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jesus-teixeira)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.linkedin.com/in/jesus-teixeira)
 
 ![Jesus Teixeira Stats](https://github-readme-stats.vercel.app/api?username=Jesus-Teixeira-DS98&show_icons=true&theme=tokyonight)
 
